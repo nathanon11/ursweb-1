@@ -5,6 +5,7 @@
 .header {
     background: #ffffff;
     height: 80px;
+    width: 100% ;
 }
 .font{font-family: 'prompt';}
 .header-con {
